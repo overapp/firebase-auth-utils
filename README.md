@@ -1,2 +1,2 @@
 # firebase-auth-utils
-Firebase authentication utility
+Firebase authentication utilities.
